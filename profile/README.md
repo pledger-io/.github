@@ -1,4 +1,4 @@
-# Pledgr.io
+# Pledger.io
 ![Sonatype Nexus (Releases)](https://img.shields.io/nexus/r/com.jongsoft.finance/fintrack-api?server=https%3A%2F%2Foss.sonatype.org)
 ![Sonatype Nexus (Snapshots)](https://img.shields.io/nexus/s/com.jongsoft.finance/fintrack-api?server=https%3A%2F%2Foss.sonatype.org)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
