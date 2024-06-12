@@ -4,8 +4,7 @@
 
 -----------------------
 
-**[Read the documentation](https://www.pledger.io/)** - [Report Bug](https://jongsoftdev.atlassian.net/issues/?jql=issuetype%20%3D%20Bug%20AND%20project%20%3D%20FIN%20AND%20resolution%20%3D%20Unresolved%20ORDER%20BY%20priority%20DESC) - [Request Feature](https://jongsoftdev.atlassian.net/browse/FIN-23?jql=issuetype%20%3D%20Story%20AND%20project%20%3D%20FIN%20AND%20resolution%20%3D%20Unresolved%20ORDER%20BY%20priority%20DESC)
-
+**[Read the documentation](https://www.pledger.io/)**
 -----------------------
 
 For some people this means categorizing every transaction to track groups of expenses, others make budgets to track total expenses versus the income.
@@ -22,3 +21,18 @@ Currently, Pledger.io has the following features:
 - Budgets to track income vs. expenses
 - Contract notifications
 - Importing transactions from bank exports
+
+## Important repositories
+
+At this point in time, the following repositories are available:
+
+### Code repositories
+
+* [rest-application](https://github.com/pledger-io/rest-application), the main application repository containing the Java REST-api.
+* [user-interface](https://github.com/pledger-io/user-interface), the React based user interface.
+* [build-tooling](https://github.com/pledger-io/build-tooling), the deployment repository bundling the user-interface and rest-application artifacts.
+
+### Documentation repositories
+
+* [user-documentation](https://github.com/pledger-io/user-documentation), the repository that generates the user manual website.
+* [importer-configuration](https://github.com/pledger-io/importer-configuration), the repository containing default configuration for the CSV based transaction importer.
