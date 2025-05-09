@@ -1,5 +1,6 @@
 # Pledger.io
 ![Sonatype Nexus (Releases)](https://img.shields.io/github/v/release/pledger-io/build-tooling?display_name=release&label=Stable)
+[![Crowdin](https://badges.crowdin.net/pledger-io/localized.svg)](https://crowdin.com/project/pledger-io)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
 -----------------------
